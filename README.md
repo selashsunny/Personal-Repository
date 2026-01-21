@@ -25,10 +25,10 @@ I support Real Madrid 👿 and Brazil 😎.
 <!-- https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif -->
 <!-- <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" /> -->
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2J6N283d3JrYnQwcmduZDE1Y21iOXFnbDQzODU3bmlhZmhpbGlxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif" />
 
  - 📫 How to reach me: [selashsunny@gmail.com](mailto:selashsunny@gmail.com);
- - 🔗 My website: [https://www.abhishekmaira.com/](https://www.abhishekmaira.com/)
+ - 🔗 My website: [https://beacons.ai/selashsunny](https://beacons.ai/selashsunny)
  
  <br>
 
