@@ -57,20 +57,20 @@ I support Real Madrid 👿 and Brazil 😎.
 ---
 ### 📢 Find me elsewhere
 <p align="left">
-  <a href="https://www.codechef.com/users/abhimaira_10">
-    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codechef.svg" alt="codechef" style="vertical-align:top; margin:4px">
+  <a href="mailto:selashsunny@gmail.com">
+    <img src="https://raw.githubusercontent.com/selashsunny/selashsunny/master/Resources/svg/gmail.svg" alt="gmail" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
   
-  <a href="https://leetcode.com/abhishekmaira1999/">
-    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:4px">
+  <a href="https://selashsunny.github.io/portfolio3/">
+    <img src="https://raw.githubusercontent.com/selashsunny/selashsunny/master/Resources/svg/html.svg" alt="html" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
 
-  <a href="https://www.hackerrank.com/abhishekmaira191">
-    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:4px">
+  <a href="https://tryhackme.com/p/Cyb3rAnonymous">
+    <img src="https://raw.githubusercontent.com/selashsunny/selashsunny/master/Resources/svg/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
   
-  <a href="https://www.codewars.com/users/abhimaira_10">
-    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codewars.svg" alt="codewars" style="vertical-align:top; margin:4px">
+  <a href="https://beacons.ai/selashsunny">
+    <img src="https://raw.githubusercontent.com/selashsunny/selashsunny/master/Resources/svg/web.svg" alt="web" style="vertical-align:top; margin:4px">
   </a> &nbsp;&nbsp;&nbsp;
 </p>
 
@@ -85,11 +85,11 @@ I support Real Madrid 👿 and Brazil 😎.
 
 </br>
 
-<a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekMaira10&repo=COVID-19-Tracker&theme=dracula" />
+<a href="https://github.com/selashsunny/portfolio4" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=selashsunny&repo=Blackhat-Interface&theme=dracula" />
 </a>
-<a href="https://github.com/AbhishekMaira10/deldrone" target="_blank">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekMaira10&repo=deldrone&theme=dracula" />
+<a href="https://github.com/selashsunny/portfolio3" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=selashsunny&repo=Anon@elite-Interface&theme=dracula" />
 </a>
 <div align="center">
 
